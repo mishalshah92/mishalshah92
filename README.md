@@ -27,8 +27,8 @@ DevOps & SRE engineer crafting resilient systems and inspiring by example.
 📬 **Let's Connect**
 
 - 🌐 [Portfolio Website](#)  
-- 💼 [LinkedIn](https://linkedin.com/in/mishalshah)  
-- 📦 [GitHub Repos](https://github.com/mshahx)
+- 💼 [LinkedIn](https://linkedin.com/in/mishalshah92)  
+- 📦 [GitHub Repos](https://github.com/mishalshah92)
 
 ---
 
