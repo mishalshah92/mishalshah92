@@ -1,16 +1,35 @@
-## Hi there 👋
+### Hi there, I'm Mishal Shah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  
+DevOps & SRE engineer crafting resilient systems and inspiring by example.
 
-<!--
-**mishalshah92/mishalshah92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🔧 **Tech Stack & Tools**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Cloud Platforms: **AWS**, **GCP**, **Azure**
+- Infrastructure as Code: **Terraform**, **Pulumi**
+- Containerization & Orchestration: **Docker**, **Kubernetes**
+- Monitoring & Observability: **Prometheus**, **Grafana**, **ELK**, **Datadog**
+- CI/CD & Automation: **GitHub Actions**, **Jenkins**, **ArgoCD**
+- Scripting & Languages: **Bash**, **Python**, **Go**
+
+---
+
+💡 **A Little About Me**
+
+> "Mishal" means *example*, and that's what I strive to be — in tech, in mindset, and in collaboration.
+
+- 🔍 Currently exploring chaos engineering and production-grade reliability practices
+- 🌱 Learning advanced FinOps + multi-cloud governance
+- ✍️ Writing about real-world infra fixes & cloud patterns
+
+---
+
+📬 **Let's Connect**
+
+- 🌐 [Portfolio Website](#)  
+- 💼 [LinkedIn](https://linkedin.com/in/mishalshah)  
+- 📦 [GitHub Repos](https://github.com/mshahx)
+
+---
+
+> 🚀 "Build with purpose. Inspire by example."
