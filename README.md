@@ -5,12 +5,12 @@ DevOps & SRE engineer crafting resilient systems and inspiring by example.
 
 🔧 **Tech Stack & Tools**
 
-- Cloud Platforms: **AWS**, **GCP**, **Azure**
+- Cloud Platforms: **AWS**, **GCP**, **Azure**, **OCI**
 - Infrastructure as Code: **Terraform**, **Pulumi**
 - Containerization & Orchestration: **Docker**, **Kubernetes**
-- Monitoring & Observability: **Prometheus**, **Grafana**, **ELK**, **Datadog**
-- CI/CD & Automation: **GitHub Actions**, **Jenkins**, **ArgoCD**
-- Scripting & Languages: **Bash**, **Python**, **Go**
+- Monitoring & Observability: **Prometheus**, **Grafana**, **ELK**
+- CI/CD & Automation: **GitHub Actions**, **Jenkins**, **CircleCI**
+- Scripting & Languages: **Bash**, **Python**, **Go**, **Java**
 
 ---
 
@@ -19,7 +19,7 @@ DevOps & SRE engineer crafting resilient systems and inspiring by example.
 > "Mishal" means *example*, and that's what I strive to be — in tech, in mindset, and in collaboration.
 
 - 🔍 Currently exploring chaos engineering and production-grade reliability practices
-- 🌱 Learning advanced FinOps + multi-cloud governance
+- 🌱 Learning advanced multi-cloud approches.
 - ✍️ Writing about real-world infra fixes & cloud patterns
 
 ---
