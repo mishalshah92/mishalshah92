@@ -2,7 +2,7 @@
 **Cloud Infrastructure • Terraform Architect • Platform Engineering • Automation Specialist**
 
 I design and build **scalable**, **secure**, **production-grade** **cloud infrastructure** across **AWS**, **Azure** 
-and other public, cloud with a core focus on **Infrastructure-as-Code**, **serverless automation**, **image pipelines**, 
+and other public clouds with a core focus on **Infrastructure-as-Code**, **serverless automation**, **image pipelines**, 
 and **platform-level reusable modules**.
 
 My strength lies in creating **foundational cloud building blocks** and turning them into **high-level constructs**, 
